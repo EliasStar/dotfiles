@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = main
+[user]
+	email = 31409841+EliasStar@users.noreply.github.com
+	name = EliasStar
+	signingKey = 1357E2B838E09B903456C0BE3FAAD4333B3BBAB8
+[commit]
+	gpgSign = true
+[safe]
+	directory = /etc
