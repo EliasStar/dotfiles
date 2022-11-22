@@ -2,5 +2,5 @@
 vt = 1
 
 [default_session]
-command = "tuigreet --cmd fish"
+command = "/etc/greetd/tuigreet.sh"
 user = "greeter"
