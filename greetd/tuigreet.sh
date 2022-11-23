@@ -13,7 +13,8 @@ EOM
 
 
 tuigreet \
-	--greeting "$GREETING"\
+	--sessions /etc/greetd/sessions/ \
+	--greeting "$GREETING" \
 	--time \
 	--time-format "%A - %d. %B %Y - %H:%M:%S - %j/365" \
 	--remember \

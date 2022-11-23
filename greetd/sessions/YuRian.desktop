@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=YuRian
+Exec=/etc/greetd/sessions/yurian.sh
+Type=Application
